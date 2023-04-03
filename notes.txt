@@ -1,0 +1,11 @@
+
+[230403]
+Do the next version from Deborach example, with probably better design.
+This is a step by step explanation. Put it into debo.py file.
+
+https://realpython.com/python-ai-neural-network/
+
+
+The second example, maybe not so good here, is from  Sahishanu:
+https://www.geeksforgeeks.org/implementation-of-neural-network-from-scratch-using-numpy/
+put it into the file sahi.py
